@@ -94,7 +94,7 @@ layers:
   - KP MINUS
   - Vol Up
   - Home
-  - UP ARROW
+  - ↑
   - Page Up
   - SLCK
   - CLCK
@@ -106,7 +106,7 @@ layers:
   - KP PLUS
   - MUTE
   - ←
-  - DOWN ARROW
+  - ↓
   - →
   - Insert
   - {t: APP, h: Ctrl}
