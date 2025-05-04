@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: ergonaut_one}
 layers:
   MAIN:
   - {t: ']', h: Gui}
@@ -44,16 +45,16 @@ layers:
   - {t: ⌦, h: NUM}
   SYM:
   - {t: F1, h: Gui}
-  - F2
-  - F3
-  - F4
-  - F5
-  - F6
-  - F7
-  - F8
-  - F9
-  - F10
-  - F11
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
   - F12
   - {t: +, h: Ctrl}
   - '!'
@@ -68,17 +69,17 @@ layers:
   - )
   - {t: '-', h: Ctrl}
   - {t: '=', h: Alt}
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
-  - Alt
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - {t: F11, h: Alt}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
@@ -95,7 +96,7 @@ layers:
   - Vol Up
   - Home
   - ↑
-  - Page Up
+  - End
   - SLCK
   - CLCK
   - {t: '=', h: Ctrl}
@@ -117,7 +118,7 @@ layers:
   - KP 3
   - KP DOT
   - Vol Down
-  - End
+  - PAGE UP
   - PRINTSCREEN
   - Page Down
   - Pause Break
